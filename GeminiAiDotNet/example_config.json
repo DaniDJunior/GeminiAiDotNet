@@ -1,4 +1,5 @@
-﻿{
+//Copiar e renomear o arquivo para config.json
+{
     "Gemini": {
         //Pegar a api Key no site https://aistudio.google.com/apikey
         "key": "API_KEY"
