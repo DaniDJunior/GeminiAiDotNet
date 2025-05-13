@@ -1,0 +1,6 @@
+﻿{
+    "Gemini": {
+        //Pegar a api Key no site https://aistudio.google.com/apikey
+        "key": "API_KEY"
+    }
+}
